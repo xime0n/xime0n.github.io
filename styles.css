@@ -11,3 +11,11 @@ p.pCenter {
   width: 400px;
   margin: 50px auto;
 }
+
+#idDivMain {
+  width: 400px;
+  margin: 0 auto;
+  border: 1px solid lightgray;
+  border-radius: 5px;
+  background-color: gray;
+}
