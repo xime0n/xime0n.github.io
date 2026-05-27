@@ -1,4 +1,4 @@
-[Русский](.ReadMe-ru.md) | [English]
+[Русский](./ReadMe-ru.md) | [English]
 
 # Welcome to GitHub
 
